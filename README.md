@@ -113,7 +113,7 @@ doi: 10.1186/s13073-025-01447-3.
 
 ## 👤 Author
 
-**Noora Abumazen**  
+**Noora Abu Mazen**  
 MSc Graduate, University of Waterloo  
 [GitHub](https://github.com/nooranabumazen) | [LinkedIn](https://www.linkedin.com/in/noora-abumazen/)
 
