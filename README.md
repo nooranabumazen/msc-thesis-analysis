@@ -115,7 +115,8 @@ doi: 10.1186/s13073-025-01447-3.
 
 **Noora Abu Mazen**  
 MSc Graduate, University of Waterloo  
-[GitHub](https://github.com/nooranabumazen) | [LinkedIn](https://www.linkedin.com/in/noora-abumazen/)
+[GitHub](https://github.com/nooranabumazen) | [LinkedIn](https://www.linkedin.com/in/nooran-abu-mazen-9a0036163/)
+Email: nooranabumazen@gmail.com
 
 ## 📜 License & Ethics
 
