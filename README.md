@@ -10,7 +10,7 @@ R code and visualizations from my MSc thesis, published in *Genome Medicine* (20
 
 **Metatranscriptomic profiling reveals pathogen and host response signatures of pediatric acute sinusitis and upper respiratory infection**
 
-*Abumazen et al., Genome Medicine (2025)*
+*Doxey A.C., Abu Mazen N. et al., Genome Medicine (2025)*
 
 [Read the full paper →](https://doi.org/10.1186/s13073-025-01447-3)
 
@@ -72,14 +72,6 @@ This repository contains the R code and analysis for investigating pathogen dete
 - ROC curve analysis for diagnostic performance
 - Principal component analysis (PCA)
 
-## 📁 Repository Structure
-
-```
-├── index.html             # Rendered R Markdown with all analyses and plots
-├── Rmarkdown.Rmd          # Source R Markdown (if included)
-├── README.md              # This file
-└── data/                  # (Not included - protected patient data)
-```
 
 ## 🚀 Viewing the Analysis
 
@@ -87,7 +79,7 @@ This repository contains the R code and analysis for investigating pathogen dete
 
 The rendered HTML includes:
 - Complete R code for reproducibility
-- All figures and visualizations
+- Figures and visualizations
 - Statistical outputs and performance metrics
 - Workflow from data processing to publication figures
 
@@ -113,10 +105,10 @@ The rendered HTML includes:
 If you use this work, please cite:
 
 ```
-Abumazen N, et al. (2025). Metatranscriptomic profiling reveals pathogen and 
-host response signatures of pediatric acute sinusitis and upper respiratory 
-infection. Genome Medicine, 17:22. 
-DOI: 10.1186/s13073-025-01447-3
+Doxey AC, Abu Mazen N, Homm M, et al. 
+Metatranscriptomic profiling reveals pathogen and host response signatures of pediatric acute sinusitis and upper respiratory infection. 
+Genome Med. 2025 Mar 17;17(1):22. 
+doi: 10.1186/s13073-025-01447-3.
 ```
 
 ## 👤 Author
@@ -127,7 +119,7 @@ MSc Graduate, University of Waterloo
 
 ## 📜 License & Ethics
 
-This work was completed as part of my MSc thesis with ethics approval from the University of Waterloo Research Ethics Board (Application #45063) and the University of Pittsburgh IRB. Patient data is not included in this repository to protect privacy.
+This work was completed as part of my MSc thesis under the supervision of Dr. Andrew Doxey with ethics approval from the University of Waterloo Research Ethics Board (Application #45063) and the University of Pittsburgh IRB. Patient data is not included in this repository to protect privacy.
 
 ---
 
