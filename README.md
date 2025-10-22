@@ -105,7 +105,7 @@ The rendered HTML includes:
 If you use this work, please cite:
 
 ```
-Doxey AC, Abu Mazen N, Homm M, et al. 
+Doxey A.C., Abu Mazen N, Homm M, et al. 
 Metatranscriptomic profiling reveals pathogen and host response signatures of pediatric acute sinusitis and upper respiratory infection. 
 Genome Med. 2025 Mar 17;17(1):22. 
 doi: 10.1186/s13073-025-01447-3.
@@ -113,7 +113,7 @@ doi: 10.1186/s13073-025-01447-3.
 
 ## 👤 Author
 
-**Noora Abu Mazen**  
+**Nooran Abu Mazen**  
 MSc Graduate, University of Waterloo  
 [GitHub](https://github.com/nooranabumazen) | [LinkedIn](https://www.linkedin.com/in/nooran-abu-mazen-9a0036163/)
 Email: nooranabumazen@gmail.com
