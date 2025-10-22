@@ -3,7 +3,8 @@ title: "Code for Analyses and Plots."
 author: Nooran Abu Mazen and Andrew C. Doxey
 subtitle: "Nasopharyngeal metatranscriptomics reveals host-pathogen signatures of pediatric sinusitis"
 output:
-  html_document: default
+  html_document:
+    output_file: "index.html"
   fig_crop: no
 ---
 
