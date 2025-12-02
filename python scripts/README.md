@@ -32,24 +32,12 @@ Both analyses used nasopharyngeal swab samples from 221 children with acute sinu
 **Input:**
 - CARD RGI output files (`*cardoutput.txt`)
 - Clinical metadata with beta-lactamase test results
-- Differentially expressed genes list
 
 **Output:**
 - Gene and gene family counts across samples
 - Sensitivity/specificity metrics
 - Lists of genes in clinically positive vs. negative samples
 - Gene statistics (identity %, reference length)
-
-**Dependencies:**
-```python
-pandas
-os
-```
-
-**Usage:**
-```bash
-python parse_card_results_pandas.py
-```
 
 **Configuration:** Edit these variables at the top of the script:
 ```python
@@ -81,20 +69,6 @@ METADATA_FILE = "metadata.csv"
 - Selected feature lists for each CV iteration
 - Performance summary table with AUC-ROC scores
 
-**Dependencies:**
-```python
-numpy
-pandas
-scikit-learn
-matplotlib
-joblib
-```
-
-**Usage:**
-```bash
-python bacterial_infection_classifier.py
-```
-
 **Configuration:** Edit these variables at the top of the script:
 ```python
 RESULTS_PATH = "/path/to/output"
@@ -112,8 +86,8 @@ NUM_OUTER_CV = 10
 ### Antimicrobial Resistance Analysis
 
 *Haemophilus influenzae* beta-lactamase production is a key resistance mechanism against penam antibiotics. We used CARD RGI to detect resistance genes from RNA-seq data and validated against clinical beta-lactamase tests. This analysis achieved:
-- **87% sensitivity** for detecting *H. influenzae* beta-lactamase
-- **High specificity** in distinguishing resistant from susceptible strains
+- **74% sensitivity** for detecting *H. influenzae* beta-lactamase
+- **67% specificity** in distinguishing resistant from susceptible strains
 
 ### Host Response Classification
 
@@ -154,7 +128,7 @@ doi: 10.1186/s13073-025-01447-3
 
 **Nooran Abu Mazen**  
 MSc Bioinformatics, University of Waterloo  
-[GitHub](https://github.com/nooranabumazen) | [LinkedIn](https://www.linkedin.com/in/nooran-abu-mazen-9a0036163/)  
+[GitHub](https://github.com/nooranabumazen) | [LinkedIn](https://www.linkedin.com/in/nooran-abu-mazen/)  
 Email: nooranabumazen@gmail.com
 
 ---
