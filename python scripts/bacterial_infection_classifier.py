@@ -5,6 +5,13 @@ Uses a Bagged Support Vector Machine (BagSVM) with nested cross-validation:
 - Outer CV: Model evaluation
 - Inner CV: Hyperparameter tuning (GridSearchCV) and feature selection (RFECV)
 
+This classifier approach was adapted from:
+    Tsalik EL, Henao R, Nichols M, et al.
+    Host gene expression classifiers diagnose acute respiratory illness etiology.
+    Sci Transl Med. 2016 Jan 20;8(322):322ra11.
+    doi: 10.1126/scitranslmed.aad6873
+    PMID: 26791949
+
 Input files:
     - Gene counts CSV (samples x genes)
     - Metadata CSV with target labels (bacterial vs non-bacterial)

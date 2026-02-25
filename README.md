@@ -4,6 +4,8 @@
 [![PMID](https://img.shields.io/badge/PMID-40098147-green)](https://pubmed.ncbi.nlm.nih.gov/40098147/)
 [![View Analysis](https://img.shields.io/badge/View-Analysis-orange)](https://nooranabumazen.github.io/msc-thesis-analysis/)
 
+## 👉 [Click here to view the full analysis report](https://nooranabumazen.github.io/msc-thesis-analysis/)
+
 R code and visualizations from my MSc thesis, published in *Genome Medicine* (2025).
 
 ## 📄 Publication
@@ -26,6 +28,30 @@ This repository contains the R code and analysis for investigating pathogen dete
 - **Host-response signatures:** Discovered 548 bacterial-specific and 273 viral-specific genes (p<0.001)
 - **Predictive value:** Host gene expression predicts infection type with AUC 0.77 (bacterial) and 0.88 (viral)
 - **Viral genomes reconstructed:** 196 viral genomes including novel coronavirus, RSV, and enterovirus strains
+
+## 🔄 Transferable Skills
+
+This project involved a lot more than biology — here's what it looks like in plain terms:
+
+**Data analysis & evidence-based decision making**
+Working with 221 patient samples meant dealing with messy, real-world data. I cleaned it, structured it, and turned it into clear findings that could inform clinical decisions. This is the same core skill set behind program evaluation and M&E work: collecting data, checking its quality, and drawing defensible conclusions.
+
+**Monitoring & evaluation (M&E) thinking**
+The study had a defined problem (too many unnecessary antibiotic prescriptions), a proposed solution (RNA-seq diagnostics), and a rigorous way to measure whether it actually worked (sensitivity, specificity, AUC). Designing and executing that evaluation framework and communicating what the numbers mean for practice maps directly to MEAL methodology in development contexts.
+
+**Project coordination across institutions**
+This research was a multi-site collaboration between the University of Waterloo and UPMC Children's Hospital of Pittsburgh, involving clinicians, bioinformaticians, and lab scientists. Keeping analysis pipelines consistent across teams, coordinating around data governance and ethics approvals, and managing timelines across time zones required the same coordination skills needed in international development work.
+
+**Stakeholder communication**
+The findings had to be communicated to clinical collaborators who weren't bioinformaticians, peer reviewers, and ultimately a broader scientific audience. Translating technical results into accessible language and knowing what details to include vs. what to cut is something I practiced constantly throughout this project.
+
+**Ethics & data governance**
+Working with pediatric patient data under dual IRB approval (University of Waterloo + University of Pittsburgh) gave me hands-on experience with data protection, informed consent frameworks, and responsible data stewardship, all directly relevant to humanitarian and public health contexts.
+
+**Reproducible, transparent reporting**
+All analysis code is publicly available and documented (you're looking at it). Building systems that others can audit, replicate, and build on is a core principle of both open science and accountable development programming.
+
+---
 
 ## 📊 Analysis Contents
 
