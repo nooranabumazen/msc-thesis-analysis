@@ -31,7 +31,7 @@ This repository contains the R code and analysis for investigating pathogen dete
 
 ## 🔄 Transferable Skills
 
-This project involved a lot more than biology — here's what it looks like in plain terms:
+This project involved a lot more than biology:
 
 **Data analysis & evidence-based decision making**
 Working with 221 patient samples meant dealing with messy, real-world data. I cleaned it, structured it, and turned it into clear findings that could inform clinical decisions. This is the same core skill set behind program evaluation and M&E work: collecting data, checking its quality, and drawing defensible conclusions.
